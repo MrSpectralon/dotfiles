@@ -1,0 +1,6 @@
+modmap:
+- name: Lofree
+  remap: # Required
+    KEY_BRIGHTNESSDOWN: KEY_F5 # Required
+  device:
+    only: '/dev/input/event6'
