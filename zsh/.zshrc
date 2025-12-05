@@ -110,6 +110,6 @@ source ~/.cargo/bin
 alias v="nvim"
 
 alias fe="xdg-open ." #Opens file explorer in current folder.
-
+alias poweroff="shutdown -P 0"
 
 eval "$(zoxide init --cmd cd zsh)"
